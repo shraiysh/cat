@@ -1,10 +1,10 @@
-### cat
+# cat
 
 This is an implementation of the commonly used unix utility `cat`. It is not
 perfect in any way, neither is it supposed to be fast. This is just me trying
 my hands on Rust to get familiar with the language.
 
-# Help
+### Help
 
 ```
 USAGE:
